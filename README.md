@@ -10,6 +10,14 @@ Olá! Me chamo Fabiana Nakagawa, tenho 18 anos e sou de Mogi das Cruzes – SP. 
 
 <img 
     align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
     alt="HTML"
     title="HTML" 
     width="30px" 
@@ -31,14 +39,6 @@ Olá! Me chamo Fabiana Nakagawa, tenho 18 anos e sou de Mogi das Cruzes – SP. 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
 <br/>
