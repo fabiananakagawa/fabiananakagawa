@@ -6,8 +6,6 @@ Olá! Me chamo Fabiana Nakagawa, tenho 18 anos e sou de Mogi das Cruzes – SP. 
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=fabiananakagawa&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
@@ -17,6 +15,9 @@ Olá! Me chamo Fabiana Nakagawa, tenho 18 anos e sou de Mogi das Cruzes – SP. 
 <img data-importer="image" align="right" height="173" src="https://i.pinimg.com/736x/72/fb/9c/72fb9c01614372df9e856fda79137b3b.jpg"  />
 
 ###
+
+### 🤖 Linguagens e Tecnologias
+
 
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
